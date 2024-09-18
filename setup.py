@@ -7,7 +7,7 @@ __version__="0.0.0"
 
 REPO_NAME="endToend-NLP-Projectf"
 AUTHOR_USER_NAME= "Sinen4r"
-SRC_REPO= "endToend-NLP-Project"
+SRC_REPO= "textSummarizer"
 AUTHOR_EMAIL= "fradjsinen@gmail.com"
 
 
