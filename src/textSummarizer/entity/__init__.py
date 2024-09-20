@@ -14,3 +14,11 @@ class DataValidationConfig:
     rootDir: Path
     StatusFile:str
     AllRequiredFiles:list
+
+
+
+@dataclass(frozen=True)
+class DataTransformationConfig:
+    rootDir:Path
+    DataPath:Path
+    TokonizerName:Path
